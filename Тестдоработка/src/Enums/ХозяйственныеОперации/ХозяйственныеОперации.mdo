@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="290cc413-7c39-4a53-bd14-35d4a49c8dce">
+  <producedTypes>
+    <refType typeId="aba33bd3-bfbd-4732-87c1-11e3e699c04f" valueTypeId="5141dd5c-b4f3-402f-b727-f90a9b3699d0"/>
+    <listType typeId="5a2d36a9-821d-4386-989a-32c0fac3a888" valueTypeId="36251afc-05fe-41b5-9d64-2f1636c67b34"/>
+    <managerType typeId="cdb2d02a-baf8-42e1-94fd-6c1ad1858986" valueTypeId="eb1d0a92-14d5-40dd-ab7e-ee6fb2e2c256"/>
+  </producedTypes>
+  <name>ХозяйственныеОперации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Хозяйственные операции</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="e8f151cb-4442-429a-af5a-45698e1125f3">
+    <name>РезервированиеТоваровЗаказКлиента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Резервирование товаров по заказу клиента</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

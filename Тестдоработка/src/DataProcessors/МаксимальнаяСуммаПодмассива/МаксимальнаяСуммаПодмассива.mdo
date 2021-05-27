@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c11e4b2e-7db4-4578-9f6b-ec3c8e6abc99">
+  <producedTypes>
+    <objectType typeId="49ce5439-28b4-4e29-9b39-ac8f1b61878a" valueTypeId="930fe74b-5411-42cd-ab3f-86a96d5e234c"/>
+    <managerType typeId="c63f97c7-c858-4036-8087-fd90750eb0c0" valueTypeId="911139c2-19ad-431d-92cc-b1058191a8a0"/>
+  </producedTypes>
+  <name>МаксимальнаяСуммаПодмассива</name>
+  <synonym>
+    <key>ru</key>
+    <value>Максимальная сумма подмассива</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.МаксимальнаяСуммаПодмассива.Form.Форма</defaultForm>
+  <forms uuid="093bb3c0-cbf7-4f04-8878-fc016857e5dc">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

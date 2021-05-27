@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="820cbbcb-ab8f-4fa1-ac9f-46d6937831ff">
+  <name>ТЕСТ_БСП_ТиповойСхемыПрведения</name>
+  <synonym>
+    <key>ru</key>
+    <value>ТЕСТ БСП типовой схемы прведения</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4f086fd3-73c4-4a0c-b0b8-543463a93886"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="3c253204-b542-4c37-b842-47592491130a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="8f2bcf52-0608-46b2-a3b1-4e3566da860c"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="1f073d9e-8595-49ec-a62f-f6db7735a44c"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f1298c37-db9c-448d-8e51-4d158782c656"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d118e937-8a64-48bb-93ea-83e7e2f81cc9"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="83bc858f-270e-461e-a943-abded9860bfb"/>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.1</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.15</compatibilityMode>
+  <languages uuid="2d69d38d-8e01-4862-8039-331525178661">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.НСИ</subsystems>
+  <subsystems>Subsystem.Документы</subsystems>
+  <commonTemplates>CommonTemplate.Задание</commonTemplates>
+  <commonModules>CommonModule.ОбщегоНазначенияЕАПТЕКАВызовСервера</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияЕАПТЕКАКлиентСервер</commonModules>
+  <commonModules>CommonModule.ПроведениеСерверУТ</commonModules>
+  <commonModules>CommonModule.ЗапасыСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияУТ</commonModules>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.СкладыСервер</commonModules>
+  <commonModules>CommonModule.НоменклатураКлиентСервер</commonModules>
+  <commonModules>CommonModule.ПроведениеСерверЛокализация</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.ПрефиксацияОбъектовКлиентСервер</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияСлужебныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.СтандартныеПодсистемыПовтИсп</commonModules>
+  <commonCommands>CommonCommand.Задание</commonCommands>
+  <constants>Constant.Версия</constants>
+  <commonForms>CommonForm.Задание</commonForms>
+  <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
+  <documents>Document.ЗаказКлиента</documents>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <enums>Enum.ХозяйственныеОперации</enums>
+  <dataProcessors>DataProcessor.КонсольЗапросов</dataProcessors>
+  <dataProcessors>DataProcessor.МаксимальнаяСуммаПодмассива</dataProcessors>
+  <accumulationRegisters>AccumulationRegister.ТоварыНаСкладах</accumulationRegisters>
+</mdclass:Configuration>
