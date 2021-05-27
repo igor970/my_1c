@@ -59,6 +59,7 @@
   <commonModules>CommonModule.СтандартныеПодсистемыПовтИсп</commonModules>
   <commonCommands>CommonCommand.Задание</commonCommands>
   <constants>Constant.Версия</constants>
+  <constants>Constant.КонтролироватьОстатки</constants>
   <commonForms>CommonForm.Задание</commonForms>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
