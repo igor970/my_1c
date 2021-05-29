@@ -43,6 +43,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="70754839-14bc-48c0-ad88-307fe9cd83c7">
+    <name>Контрагент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрагент</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="00089dcf-ccab-4415-ad20-4ad0469a1fe2">
     <producedTypes>
       <objectType typeId="923b4494-a026-4db2-a408-312bcc3950b4" valueTypeId="b99a2619-ec99-4b93-9c34-37330641d943"/>
