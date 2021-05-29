@@ -64,6 +64,7 @@
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.ЗаказКлиента</documents>
   <documents>Document.ПоступлениеТоваров</documents>
   <enums>Enum.ХозяйственныеОперации</enums>
